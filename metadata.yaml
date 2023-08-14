@@ -1,0 +1,47 @@
+_repo: Selected-etchings-by-Piranesi-series-2_71256
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Piranesi, Giovanni Battista
+    aliases:
+    - Piranesi, G. B. (Giovanni Battista)
+    - Piranesi, Giambattista
+    birthdate: 1720
+    deathdate: 1778
+    gutenberg_agent_id: '55744'
+    url: http://www.gutenberg.org/2009/agents/55744
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
+    - https://it.wikipedia.org/wiki/Giovanni_Battista_Piranesi
+creator:
+  editor:
+    agent_name: Reilly, C. H. (Charles Herbert), Sir
+    alias: Reilly, Charles Herbert, Sir
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '55546'
+    url: http://www.gutenberg.org/2009/agents/55546
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Herbert_Reilly
+description: ''
+gutenberg_issued: '2023-07-23'
+identifiers:
+  gutenberg: '71256'
+language: en
+pgterms:marc904: https://archive.org/details/selectedetchings02pirauoft/page/n3/mode/2up
+pgterms:marc905: 20220506011456reilly
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited Kingdom :$bTechnical Journals, Ltd., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piranesi, Giovanni Battista, 1720-1778'
+- !lcsh 'Etching, Italian'
+- !lcc 'NE'
+- GITenberg
+title: Selected etchings by Piranesi, series 2
+url: http://www.gutenberg.org/ebooks/71256
