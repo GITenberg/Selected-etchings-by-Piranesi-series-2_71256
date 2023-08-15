@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
     - https://it.wikipedia.org/wiki/Giovanni_Battista_Piranesi
+covers:
+- cover_type: archival
+  image_path: 71256-h/images/cover.jpg
 creator:
   editor:
     agent_name: Reilly, C. H. (Charles Herbert), Sir
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55546
     wikipedia: https://en.wikipedia.org/wiki/Charles_Herbert_Reilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71256#Selected-etchings-by-Piranesi-series-2
 gutenberg_issued: '2023-07-23'
 identifiers:
   gutenberg: '71256'
